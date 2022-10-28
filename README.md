@@ -1,4 +1,4 @@
-Jogo criado para a matéria de Computação Gráfica 2022.1 na URFRRJ.
+Jogo criado para a matéria de Computação Gráfica 2022.1 na UFRRJ.
 
 Vídeo no youtube: https://www.youtube.com/watch?v=8kGUHqOkUrA&t=1s&ab_channel=MatheusRodrigues
 
